@@ -26,7 +26,7 @@ def project_title():
     , unsafe_allow_html=True
     )
 
-    st.markdown('<h1 class="header"> Statsense </h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="header"> Statsense : An Automated EDA App </h1>', unsafe_allow_html=True)
     st.markdown('<h3 class="subheader"> Upload a CSV file </h3>', unsafe_allow_html=True)
     
 
